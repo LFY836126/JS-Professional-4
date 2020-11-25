@@ -12,3 +12,12 @@ JS高程已经出版了第四版，共28章，892页内容
 
 笔记：
   + [第一章](https://github.com/LFY836126/JS-Professional-4/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0.md)
+
+
+附：
+  + <font color="#FFA39E">颜色1</font>
+  + <font color="#EB2F96">颜色2</font>
+  + <font color="#FA8C17">颜色4</font>
+  + <font color="#51C41B">颜色5</font>
+  + <font color="#1990FF">颜色3</font>
+  + <font color="#F5232D">颜色6</font>

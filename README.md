@@ -12,7 +12,3 @@ JS高程已经出版了第四版，共28章，892页内容
 
 笔记：
   + [第一章](https://github.com/LFY836126/JS-Professional-4/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0.md)
-
-
-
-
